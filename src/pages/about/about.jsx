@@ -16,8 +16,10 @@ const About = () => {
           </div>
           <div className='about-text'>
             <h2 className='about-title fs-26 ls-1'>About BookHub</h2>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus dignissimos consequuntur vero commodi provident maiores, iusto atque corrupti voluptate vel sequi consectetur unde aliquam corporis saepe animi non, tempora reiciendis molestias sed laudantium dolores. Assumenda aperiam fuga quo voluptate commodi ullam aliquam expedita voluptas delectus.</p>
-            <p className='fs-17'>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor, dicta, possimus inventore eveniet atque voluptatibus repellendus aspernatur illo aliquam dignissimos illum. Commodi, porro omnis dolore amet neque modi quas eum!</p>
+            <p className='fs-17'>Welcome to BookHub, your go-to app for discovering books and enriching your reading journey. BookHub is a powerful and user-friendly Book Search App built with React JS, leveraging the Open Library Search API. Our goal is to help book enthusiasts like you find their next great read quickly and effortlessly. Whether you're searching for classic literature, modern bestsellers, or niche genres, BookHub has you covered.
+
+With BookHub, you can easily search for books by title, author, or subject and get detailed information about each book, including author, edition, first publish year, and more. The app boasts a clean and intuitive interface designed for a seamless user experience. As a passionate developer and avid reader, I created BookHub to combine my love for books and technology. During the development process, I encountered and overcame numerous challenges, from handling API errors to optimizing the user interface. These experiences have shaped BookHub into a robust and reliable tool for book lovers everywhere.</p>
+            <p className='fs-17'>Creating BookHub was an exciting journey filled with learning and problem-solving. Integrating the Open Library Search API provided comprehensive book data, and tackling various issues, including API response handling and npm package errors, ensured smooth functionality. I also focused on creating an engaging and responsive design, overcoming challenges with CSS styling and component rendering. I am always looking for feedback and suggestions to improve BookHub. Feel free to reach out if you have any ideas, comments, or just want to chat about books!</p>
           </div>
         </div>
       </div>
